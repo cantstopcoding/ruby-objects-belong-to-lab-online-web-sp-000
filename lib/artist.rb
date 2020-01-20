@@ -1,1 +1,3 @@
-Artist.new 
+class Artist
+
+end 
